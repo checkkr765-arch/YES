@@ -1,0 +1,6 @@
+{
+  "name": "ALABBAS FURNITURE HOUSE",
+  "description": "Premium 3D interactive furniture showroom and full-featured Admin CMS for Alabbas Furniture House in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
